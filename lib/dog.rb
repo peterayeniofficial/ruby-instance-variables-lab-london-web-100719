@@ -7,3 +7,8 @@ class Dog
     @this_dogs_name
   end
 class
+
+lassie = Dog.new 
+lassie.name = "Lassie"
+
+puts lassie.name
